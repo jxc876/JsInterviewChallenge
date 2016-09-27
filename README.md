@@ -11,7 +11,7 @@ Your challenge, should you choose to accept it, is to create a web application u
 
 We will be looking for
 
-1. Best practices using your chosen framework
+1. Best practices using Angular
 2. A complete solution that addresses the user story
 
 Things that you can do to WOW us,
